@@ -1,0 +1,16 @@
+.jumbotron
+{
+	background-color: black;
+	color: goldenrod;
+}
+
+#sidebar
+{
+	background-color: dimgrey;
+	color: goldenrod;
+}
+
+.container-fluid p
+{
+	font-size: 20px;
+}
