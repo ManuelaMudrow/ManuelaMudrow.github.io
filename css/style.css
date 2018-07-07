@@ -1,16 +1,52 @@
 .jumbotron
 {
-	background-color: black;
-	color: goldenrod;
+
+	background-image: linear-gradient(rgb(90,90,90), black);
+	color: rgb(228,165,32);
+	margin-bottom: 5%;
+
+}
+
+body
+{
+	background-image: url("../img/background.jpg");
+	background-repeat: no-repeat;
+}
+
+h1
+{
+	font-family: 'Georgia';
+}
+
+p
+{
+	font-family: 'Arial';
+}
+
+img
+{
+	width: 70%;
+}
+
+#headerText
+{
+	text-align: center;
 }
 
 #sidebar
 {
-	background-color: dimgrey;
-	color: goldenrod;
+	background-color: rgb(90,90,90, 0.9);
+	color: rgb(228,165,32);
+}
+
+#mainText
+{
+	color: black;
+	background-color: rgb(255, 255, 255, 0.7);
+
 }
 
 .container-fluid p
 {
-	font-size: 20px;
+	font-size: 22px;
 }

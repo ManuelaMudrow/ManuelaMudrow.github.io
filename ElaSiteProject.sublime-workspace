@@ -3,10 +3,64 @@
 	{
 		"selected_items":
 		[
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"backgr",
+				"background-repeat\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"back",
+				"background-attachment\tproperty"
+			],
+			[
+				"top",
+				"padding-top\tproperty"
+			],
+			[
+				"repe",
+				"background-repeat\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 527,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2313,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -48,7 +102,8 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/pruss/Desktop/Manuela Website"
+		"/C/Users/pruss/Desktop/WebsiteGit/ManuelaMudrow.github.io",
+		"/C/Users/pruss/Desktop/WebsiteGit/ManuelaMudrow.github.io/css"
 	],
 	"file_history":
 	[
@@ -105,8 +160,67 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								519,
+								519
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
